@@ -27,6 +27,7 @@ This project is in development, don't expect this to release soon
 ## Installation
 
 Installing Velvet CLI
+
 *Install python-pipx before continuing*
 
 ```bash
