@@ -4,6 +4,11 @@
 A React based programming language that will make your terrible code's output beautiful
 
 
+## What is Velvet?
+
+Velvet is a programming language that converts basic HTML 5 to beautiful react
+
+
 ## Documentation
 
 Most of the stuff will be in the documentation, so please read it. The documentation is avaliable at https://velvet-docs.vercel.app
