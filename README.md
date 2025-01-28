@@ -35,6 +35,12 @@ Installing Velvet CLI
   cd velvet
   pipx install -e .
 ```
+
+Uninstalling Velvet CLI
+```bash
+  pipx uninstall velvet-cli
+```
+
     
 Velvet CLI Usage:
 ```bash
